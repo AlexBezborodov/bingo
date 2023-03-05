@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.883146d8.css",
+    "main.js": "/static/js/main.c0e7967c.js",
+    "static/media/KyivTypeSans-Medium.ttf": "/static/media/KyivTypeSans-Medium.7d6e55f9d90a396b13c5.ttf",
+    "static/media/KyivTypeSans-Regular.ttf": "/static/media/KyivTypeSans-Regular.f1baf3aaa199be8178bf.ttf",
+    "static/media/MAK-bold.otf": "/static/media/MAK-bold.26e7001928493b6a415d.otf",
+    "index.html": "/index.html",
+    "main.883146d8.css.map": "/static/css/main.883146d8.css.map",
+    "main.c0e7967c.js.map": "/static/js/main.c0e7967c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.883146d8.css",
+    "static/js/main.c0e7967c.js"
+  ]
+}
